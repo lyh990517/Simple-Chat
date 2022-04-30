@@ -7,4 +7,10 @@ With
 -Firebase RealTime Database
   <br>
 -Firebase Authentication
-  
+ <br>
+<br>
+로그인후 채팅시 uid 표시
+<br>
+안하고 채팅시 null
+<br>
+정말로 심플하게 로그인과 채팅기능만 구현 
