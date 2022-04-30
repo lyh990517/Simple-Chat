@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359842323760",
+    "project_id": "idu-project",
+    "storage_bucket": "idu-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359842323760:android:fd1ecb4a06da7c0252bcf5",
+        "android_client_info": {
+          "package_name": "yunho.app.simplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359842323760-3njbpi71etuo54dbitv5d2nlqgrvv1p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyv7TNTttCg7GPVUKs9cVxTnpdNhUKOOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359842323760-3njbpi71etuo54dbitv5d2nlqgrvv1p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
